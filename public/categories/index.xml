@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on TuDinh Blog</title>
+    <link>https://hugo-demo.olachezllc.com/categories/</link>
+    <description>Recent content in Categories on TuDinh Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 22 Jul 2024 11:27:47 +0700</lastBuildDate>
+    <atom:link href="https://hugo-demo.olachezllc.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding</title>
+      <link>https://hugo-demo.olachezllc.com/categories/coding/</link>
+      <pubDate>Mon, 22 Jul 2024 11:27:47 +0700</pubDate>
+      <guid>https://hugo-demo.olachezllc.com/categories/coding/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Css</title>
+      <link>https://hugo-demo.olachezllc.com/categories/css/</link>
+      <pubDate>Mon, 22 Jul 2024 11:27:47 +0700</pubDate>
+      <guid>https://hugo-demo.olachezllc.com/categories/css/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Culture</title>
+      <link>https://hugo-demo.olachezllc.com/categories/culture/</link>
+      <pubDate>Mon, 22 Jul 2024 11:27:47 +0700</pubDate>
+      <guid>https://hugo-demo.olachezllc.com/categories/culture/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>General</title>
+      <link>https://hugo-demo.olachezllc.com/categories/general/</link>
+      <pubDate>Mon, 22 Jul 2024 11:27:47 +0700</pubDate>
+      <guid>https://hugo-demo.olachezllc.com/categories/general/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Html</title>
+      <link>https://hugo-demo.olachezllc.com/categories/html/</link>
+      <pubDate>Mon, 22 Jul 2024 11:27:47 +0700</pubDate>
+      <guid>https://hugo-demo.olachezllc.com/categories/html/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Js</title>
+      <link>https://hugo-demo.olachezllc.com/categories/js/</link>
+      <pubDate>Mon, 22 Jul 2024 11:27:47 +0700</pubDate>
+      <guid>https://hugo-demo.olachezllc.com/categories/js/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Life</title>
+      <link>https://hugo-demo.olachezllc.com/categories/life/</link>
+      <pubDate>Mon, 22 Jul 2024 11:27:47 +0700</pubDate>
+      <guid>https://hugo-demo.olachezllc.com/categories/life/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Travel</title>
+      <link>https://hugo-demo.olachezllc.com/categories/travel/</link>
+      <pubDate>Mon, 22 Jul 2024 11:27:47 +0700</pubDate>
+      <guid>https://hugo-demo.olachezllc.com/categories/travel/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

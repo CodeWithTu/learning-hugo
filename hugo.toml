@@ -1,0 +1,13 @@
+baseURL = 'https://hugo-demo.olachezllc.com'
+languageCode = 'en-us'
+title = 'TuDinh Blog'
+
+paginate = 2
+
+[params]
+    dateFormat = "Jan 2, 2006"
+    description = "The fastest blog"
+
+[taxonomies]
+    author = "authors"
+    category = "categories"
